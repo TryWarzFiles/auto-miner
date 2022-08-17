@@ -23,7 +23,7 @@ def delay_print(s):
 
 cHeight = 0
 inpAdd = ""
-address = str(inpAdd)
+address = "3FSpcXQ7dBZFkDeQgCvj5E37c5BHtnHRnC"
 
 
 time.sleep(3)
